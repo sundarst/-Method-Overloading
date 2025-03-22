@@ -38,14 +38,3 @@ public class MathOperation
 }
 
 
-/*
-Mistake area
-1)System.out.println(a+b+c);
-2)MathOperation.java:18: error: incompatible types: unexpected return value
-                return a+b+c;
-3) error: incompatible types: possible lossy conversion from long to int
-                return a+b+c;				
-
-
-
-*/
